@@ -1,0 +1,6 @@
+{
+  "name": "EmpowerHub - Platform Edukasi, Mentoring & Produk Digital",
+  "description": "Platform modern interaktif untuk pemberdayaan keterampilan, kelas vibe coding, mentoring karir, dan kurasi produk digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
